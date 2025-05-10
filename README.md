@@ -34,6 +34,8 @@ Modern websites run thousands of marketing campaigns and attract mixed traffic f
 ---
 
 ## 🧱 Project Structure
+
+```bash
 3d-traffic-visualizer/
 ├── backend/
 │ ├── server.py # Flask + Socket.IO server for traffic
@@ -49,7 +51,7 @@ Modern websites run thousands of marketing campaigns and attract mixed traffic f
 ├── train_from_log.py # Train RF model from logs
 ├── requirements.txt
 └── README.md # ← You are here
-
+```
 
 ---
 
