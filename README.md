@@ -5,12 +5,12 @@ A real-time web traffic visualizer that classifies incoming traffic as **bot**, 
 ![3D Screenshot](./assets/3d_output_preview.png)
 
 ---
-
-
 ## Demo
-![3D Demo](./assets/3d_demo.mov)
+
+![3D Demo](./assets/3d_demo.mp4)
 
 ---
+
 ## 🔍 Project Significance (from a Product Manager's Lens)
 
 Modern websites run thousands of marketing campaigns and attract mixed traffic from organic users, bots, crawlers, and fraud sources. However, **most analytics tools are textual, tabular, or aggregated**—making anomaly detection slow.
@@ -21,39 +21,6 @@ Modern websites run thousands of marketing campaigns and attract mixed traffic f
 - ✅ **Visual clustering of threat vectors** (e.g., bot activity targeting checkout/login pages).
 - ✅ **Instant demonstration of campaign hygiene** to stakeholders or clients via 3D cube mesh.
 - ✅ **Classification via ML** (Random Forest trained on behavior & user-agent).
-  
----
-
-
-## 🔍 Project Utility
-
-- ### 🏦 AdTech / Campaign Hygiene
-
-- Detect click fraud, bot-driven CPC burn, and fake engagements  
-- Visualize ROI-impacting activity live
-
-### 🛒 E-Commerce
-
-- Map bots scraping product pages  
-- Detect targeted attacks on `/checkout`, `/login` etc.
-
-### 🏥 Healthcare / Insurance
-
-- Monitor form submissions, spam IPs on pricing calculators  
-- Detect abnormal behavioral flows
-
-### 🌐 Cybersecurity
-
-- Act as an interactive **honeypot dashboard**  
-- Extend detection to real threat feeds (Cloudflare, Sucuri, etc.)
-
-### 🧠 Future Add-Ons
-
-- Real IP intelligence (via GeoIP)  
-- Live map (Mapbox 3D globe mode)  
-- User behavior heatmap overlays  
-- Admin alert system for bot anomalies  
-- Model retraining pipeline from real logs
 
 ---
 
