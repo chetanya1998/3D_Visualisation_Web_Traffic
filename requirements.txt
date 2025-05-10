@@ -1,0 +1,17 @@
+Flask==3.0.3
+flask-socketio==5.3.6
+eventlet==0.35.1          # async engine for Socket.IO
+scikit-learn==1.4.2
+joblib==1.4.2
+requests==2.31.0
+streamlit==1.34.0
+python-socketio==5.11.2   # client (dashboard)
+plotly==5.22.0            # 3‑D scatter
+pandas==2.2.2
+time
+numpy
+pillow
+matplotlib
+scipy
+pyod
+seaborn
