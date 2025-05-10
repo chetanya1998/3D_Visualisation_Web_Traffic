@@ -3,10 +3,14 @@
 A real-time web traffic visualizer that classifies incoming traffic as **bot**, **human**, or **suspect**, and maps them within a dynamic **3D cube mesh** simulating website activity. This tool enables engineering, security, and marketing teams to **instantly see traffic patterns** and **identify threats** visually.
 
 ![3D Screenshot](./assets/3d_output_preview.png)
-![3D Demo](./assets/3d_demo.mov)
 
 ---
 
+
+## Demo
+![3D Demo](./assets/3d_demo.mov)
+
+---
 ## 🔍 Project Significance (from a Product Manager's Lens)
 
 Modern websites run thousands of marketing campaigns and attract mixed traffic from organic users, bots, crawlers, and fraud sources. However, **most analytics tools are textual, tabular, or aggregated**—making anomaly detection slow.
