@@ -7,8 +7,7 @@ A real-time web traffic visualizer that classifies incoming traffic as **bot**, 
 ---
 ## Demo
 
-▶️ [Click here to view the 3D demo video](./assets/demo.gif)
-
+![Demo Animation](./assets/demo.gif)
 
 ---
 
