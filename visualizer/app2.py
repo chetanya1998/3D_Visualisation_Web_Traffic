@@ -109,4 +109,4 @@ while True:
         f"🔴 Bots: {(df.label == 'bot').sum()} | 🟡 Suspect: {(df.label == 'suspect').sum()}"
     )
 
-    time.sleep(7)
+    time.sleep(2)
