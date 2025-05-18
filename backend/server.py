@@ -14,7 +14,7 @@ logger.addHandler(logging.FileHandler(LOG_PATH))
 
 app = Flask(__name__)
 app.config["SECRET_KEY"] = "3d-traffic-visualizer"
-socketio = SocketIO(app, cors_allowed_origins="*", async_mode="eventlet")
+socketio = SocketIO(app, cors_allowed_origins="*", async_mode="threading")
 
 @app.route("/hit", methods=["POST"])
 def hit():
